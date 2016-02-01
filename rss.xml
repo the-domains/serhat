@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Serhat]]></title>
+        <description><![CDATA[Serhat]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 01 Feb 2016 10:20:41 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bu adamlar nereye bakıyor?]]></title>
+            <description><![CDATA[<article><h1>Bu adamlar nereye bakıyor?</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a907061e2dcc0db2eaf3a5d833c987c042c41eba.jpg"></article>]]></description>
+            <link>http://www.nytimes.com/2016/01/30/us/politics/election-2016-virtual-reality-vr-video.html?hp&amp;action=click&amp;pgtype=Homepage&amp;clickSource=story-heading&amp;module=span-ab-top-region&amp;region=top-news&amp;WT.nav=top-news&amp;_r=0</link>
+            <guid isPermaLink="false">2794f75b-8aa1-4a88-8632-3f9765af2bee</guid>
+            <pubDate>Mon, 01 Feb 2016 10:20:32 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
